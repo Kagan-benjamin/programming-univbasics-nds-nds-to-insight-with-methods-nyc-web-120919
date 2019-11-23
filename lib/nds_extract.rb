@@ -18,4 +18,5 @@ def gross_for_director(director_data)
   gross = 0 
   director_index = 0 
   
+  while director_index < 
 end
